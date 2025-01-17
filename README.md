@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/itspreksha/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/itspreksha/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/itspreksha/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/itspreksha/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itspreksha/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/itspreksha/Leetcode/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/itspreksha/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/itspreksha/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/itspreksha/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/itspreksha/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/itspreksha/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Simulation

@@ -1,10 +1,21 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int result=0;
-        for(int i=0;i<nums.length;i++)
+        Map<Integer,Integer>map=new HashMap<>();
+        for(int num:nums)
         {
-            result=result^nums[i];
+            if(!map.containsKey(num))
+            {
+                map.put(num,0);
+            }
+            map.put(num,map.get(num)+1);
         }
-        return result;
+        for(int num:nums)
+        {
+            if(map.get(num)==1)
+            {
+                return num;
+            }
+        }
+        return -1;
     }
 }

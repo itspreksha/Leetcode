@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itspreksha/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/itspreksha/Leetcode/tree/master/0155-min-stack) |
 | [0983-validate-stack-sequences](https://github.com/itspreksha/Leetcode/tree/master/0983-validate-stack-sequences) |
 ## Tree
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/itspreksha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/itspreksha/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itspreksha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/itspreksha/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/itspreksha/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/itspreksha/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
